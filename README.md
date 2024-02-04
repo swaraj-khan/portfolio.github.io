@@ -1,13 +1,13 @@
 # Data Scientist
 
-### Technical Skills: Python,SQL,Power BI
+#### Technical Skills: Python,SQL,Power BI
 ## Education
 - B.Tech CSE | Datanada Sagar University ( 3rd Year )
 - Class 12 PCMC | The Amaatra Academy
 
 ## Work Experience 
 **Intern @ Disys/Dexian | Managed Services Data
-COE department**
+COE department (_17-July-2023 to 16-August-2023_)**
 - Conducted data collection, processing, and analysis for Stroke prediction
 - Applied Random forest and Logistic regression for the dataset
 - Vizualised the data using streamlit
